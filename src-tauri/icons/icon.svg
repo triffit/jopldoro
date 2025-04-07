@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tomato body -->
+  <circle cx="256" cy="256" r="240" fill="#FF6B6B"/>
+  <circle cx="256" cy="256" r="220" fill="#FF8787"/>
+  
+  <!-- Timer circle -->
+  <circle cx="256" cy="256" r="180" stroke="#2C3E50" stroke-width="12" fill="none"/>
+  <circle cx="256" cy="256" r="160" stroke="#2C3E50" stroke-width="8" fill="none"/>
+  
+  <!-- Timer hands -->
+  <line x1="256" y1="256" x2="256" y2="156" stroke="#2C3E50" stroke-width="12" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="326" y2="256" stroke="#2C3E50" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Center dot -->
+  <circle cx="256" cy="256" r="12" fill="#2C3E50"/>
+  
+  <!-- Leaf -->
+  <path d="M256 76 C256 76 286 76 286 46 C286 46 316 46 316 76 C316 76 346 76 346 106 C346 106 316 106 316 136 C316 136 286 136 286 106 C286 106 256 106 256 76" fill="#4CAF50"/>
+</svg> 

@@ -1,0 +1,11 @@
+{
+  "name": "jopldoro-icons",
+  "version": "1.0.0",
+  "description": "Icon conversion for JOPLdoro",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+} 
