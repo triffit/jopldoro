@@ -1,2 +1,2 @@
 # jopldoro
-A JOPL app to do pomodoro
+JOPLdoro Tauri v2 app, completely created by using AI
